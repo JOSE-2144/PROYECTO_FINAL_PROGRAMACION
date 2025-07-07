@@ -117,3 +117,8 @@ void marcarComoTomado(Medicamento meds[], int n) {
 
     printf("Medicamento no encontrado.\n");
 }
+
+
+//   gcc main.c medicamento.c -o medicamento.exe
+
+//   \medicamento.exe

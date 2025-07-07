@@ -17,3 +17,8 @@ void mostrarMedicamentos(Medicamento meds[], int n);
 void marcarComoTomado(Medicamento meds[], int n);
 
 #endif
+
+
+//   gcc main.c medicamento.c -o medicamento.exe
+
+//   \medicamento.exe

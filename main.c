@@ -37,3 +37,7 @@ int main() {
 
     return 0;
 }
+
+//   gcc main.c medicamento.c -o medicamento.exe
+
+//   \medicamento.exe
